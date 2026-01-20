@@ -59,19 +59,30 @@ Search for "wordpress-publisher" on [SkillsMP](https://skillsmp.com) and follow 
 
 ### Manual Installation
 
-**For Claude Code:**
+<details>
+<summary><strong>For Claude Code</strong></summary>
+
 ```bash
+# Clone to your skills directory
 git clone https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude.git ~/.claude/skills/wordpress-publisher
 ```
+</details>
 
-**For Claude.ai (Web):**
-1. Download this repository
-2. Upload the skill folder via Claude.ai → Settings → Skills → Upload custom skill
+<details>
+<summary><strong>For Claude.ai (Web)</strong></summary>
 
-**For Codex CLI:**
+1. Download this repository as ZIP
+2. Extract and upload the skill folder via **Claude.ai → Settings → Skills → Upload custom skill**
+</details>
+
+<details>
+<summary><strong>For Codex CLI</strong></summary>
+
 ```bash
+# Clone to Codex skills directory
 git clone https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude.git ~/.codex/skills/wordpress-publisher
 ```
+</details>
 
 ### Standalone Python Usage
 
