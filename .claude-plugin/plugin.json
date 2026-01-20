@@ -1,0 +1,26 @@
+{
+  "name": "wordpress-publisher",
+  "description": "Publish content directly to WordPress sites via REST API with full Gutenberg block support. Create and publish posts/pages, auto-load and select categories from website, generate SEO-optimized tags, preview articles before publishing, and generate Gutenberg blocks for tables, images, lists, and rich formatting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "xCloud",
+    "email": "support@xcloud.host"
+  },
+  "homepage": "https://github.com/yourusername/wordpress-publisher-skill",
+  "repository": "https://github.com/yourusername/wordpress-publisher-skill",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "publishing",
+    "gutenberg",
+    "blog",
+    "cms",
+    "content",
+    "markdown",
+    "rest-api",
+    "seo"
+  ],
+  "skills": [
+    "SKILL.md"
+  ]
+}
